@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .color-base-gradient {
+    @apply bg-gradient-to-r from-[#18EFFA] to-[#0D72FD];
+  }
+  
+  .my-element {
+    @apply bg-gradient-to-r from-black to-yellow-400 blur-10;
+  }
+
+.text-blur-none{
+  @apply text-white filter-none;
+}
+}
+
+@layer utilities {
+  .blur-10 {
+    filter: blur(10px);
+  }
+}
+/* :root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+} */
+
+/* width */
+::-webkit-scrollbar { 
+  width: 5px; 
+} 
+
+/* Track */
+::-webkit-scrollbar-track { 
+  background: #f1f1f1; 
+} 
+
+/* Handle */
+::-webkit-scrollbar-thumb { 
+  background: #888; 
+  border-radius: 5px; 
+} 
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover { 
+  background: #555; 
+}
