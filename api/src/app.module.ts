@@ -15,7 +15,7 @@ import { SellerMiddleware } from './common/middlewares/seller.middleware';
 import { CommentModule } from './comment/comment.module';
 @Module({
   imports: [
-    MongooseModule.forRoot('mongodb+srv://pnjihto123:tPQf5bsmkXiVT4qk@t-spiration.ssykuul.mongodb.net/T-spiration?retryWrites=true&w=majority'), 
+    MongooseModule.forRoot(''), 
     AuthModule,
     ConfigModule.forRoot({
       isGlobal: true,
