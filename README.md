@@ -16,7 +16,6 @@ Clone the repository
 
     git clone https://github.com:jihto/Online-storage-system-.git
 
-``` 
 In Front-end
 ```bash 
 Step 1: Switch to the repo client folder
@@ -54,6 +53,7 @@ Step 4: Run server
     #or
     npm run dev --watch
  
+``` 
 ----------
  
 ## Start application
