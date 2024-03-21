@@ -2,9 +2,9 @@
 
 
 <p>- This is a [Online shoe store project] project build base on Front-end[`React.JS`], Back-end[`Nest.JS`] and Database [`MongoDB`]</p>
-<p>- Project feature:
-    User Role: Secure login and management of their profile, orders, and favorites, product discovery using filters, categories, and image/text search.Submitting reviews and comments(with appropriate image moderation).
-	Admin role: Comprehensive user and product management including creation, update, deletion, and analysis. Control over product information, user accounts, and overall platform management.</p>
+<p>- Project feature:</p>
+<p> + User Role: Secure login and management of their profile, orders, and favorites, product discovery using filters, categories, and image/text search.Submitting reviews and comments(with appropriate image moderation).</p>
+<p> + Admin role: Comprehensive user and product management including creation, update, deletion, and analysis. Control over product information, user accounts, and overall platform management.</p>
 
 ----------
 
@@ -15,6 +15,24 @@
 Clone the repository
 
     git clone https://github.com:jihto/Online-storage-system-.git
+
+``` 
+In Front-end
+```bash 
+Step 1: Switch to the repo client folder
+
+    cd client
+    
+Step 2: Install dependencies
+    
+    npm install
+ 
+Step 3: Run server
+
+    npm run dev
+
+```
+
 
 In Back-end
 ```bash 
@@ -35,27 +53,9 @@ Step 4: Run server
     nest  start dev 
     #or
     npm run dev --watch
-
-``` 
-In Back-end
-```bash 
-Step 1: Switch to the repo client folder
-
-    cd client
-    
-Step 2: Install dependencies
-    
-    npm install
  
-Step 3: Run server
-
-    npm run dev
-
-``` 
-
 ----------
  
-
 ## Start application
 
 - After run client and server
