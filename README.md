@@ -72,6 +72,6 @@ This applications uses JSON Web Token (JWT) to handle authentication. The token 
 ## Author
 👤 **--Jihto--**
 
-- Twitter: [@Jihto](https://twitter.com/)
+- Linkedin: [@Phuc-Nguyen]([https://twitter.com/](https://www.linkedin.com/in/phuc-nguyen-9ba849266/))
 - Github: [@Jihto](https://github.com/jihto)
 ---
