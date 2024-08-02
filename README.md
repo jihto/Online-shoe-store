@@ -18,8 +18,7 @@ Role user
 <img src="https://github.com/user-attachments/assets/b908bb1a-830c-4e0e-836d-dbf12e9ecad7" width="49%" height="240">
 <img src="https://github.com/user-attachments/assets/fb95c2a8-17a8-46e0-9b34-73052c676d1d" width="49%" height="240">
 <img src="https://github.com/user-attachments/assets/faf8a0db-91ef-418b-abbd-e57d214c91c8" width="49%" height="240">
-<img src="https://github.com/user-attachments/assets/435e542a-eb9c-4013-b788-46d9676dff11" width="49%" height="240">
-<img src="https://github.com/user-attachments/assets/bff72583-31b6-4581-960a-5d42e7403858" width="49%" height="240">
+<img src="https://github.com/user-attachments/assets/435e542a-eb9c-4013-b788-46d9676dff11" width="49%" height="240"> 
 
 Role seller
 
